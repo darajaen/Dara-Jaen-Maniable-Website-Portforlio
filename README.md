@@ -1,2 +1,1 @@
-# Dara-Jaen-Maniable-Website-Portforlio
-HTML,CSS AND JS
+# im_stuti.github.io
